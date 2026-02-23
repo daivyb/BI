@@ -1,0 +1,9 @@
+# Ignore the Date directory and temporary files
+Date/
+*.pbix.backup
+*.pbix.lock
+*.xls.backup
+*.xls.lock
+*.xlsx.backup
+*.xlsx.lock
+~$*.xlsx
